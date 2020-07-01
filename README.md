@@ -2,9 +2,8 @@
 
 This repository contain my solutions for Udacity Data Analysis Nanodegree.
 
-<b> Project-1 </b>
-</n>
-<b> Weather Trends </b>
+<b> Project-1  
+Weather Trends </b>
 
 In this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
