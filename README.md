@@ -1,6 +1,6 @@
 # DataAnalysis-Udacity-Nanodegree
 
-This repository contain my solutions for Udacity Data Analysis Nanodegree.
+This repository contains solutions for Udacity Data Analysis Nanodegree.
 
 <b> Project-1:  
 Weather Trends </b>
