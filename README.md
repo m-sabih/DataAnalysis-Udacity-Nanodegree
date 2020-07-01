@@ -10,7 +10,12 @@ In this project, I analyzed local and global temperature data and compare the te
 <b> Project-2:  
 Investigating a Dataset : TMDB Movie Dataset </b>
 
-In this project, I go through the data analysis process and see how everything fits together. 
+In this project, I go through the data analysis process and see how everything fits together.  
+It contains following steps
+- Data Wrangling 
+- Asking Questions.
+- Exploring
+- Conclusion
 
 <b> Project-3:  
 Analyze A/B Test Results </b>
